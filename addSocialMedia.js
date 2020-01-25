@@ -2,10 +2,10 @@
 
       var SOCIAL_MEDIA = [
         ["Download" , "download_1.png" , "https://www.facebook.com/AutografOfficial/app_208195102528120"],
-        ["Share on Twitter" ,"twitter_1.png" , "http://twitter.com/share?text=Psychedelic%20Snake%20with%20audio%20from%20@AutografMusic%20coded%20by%20@cabbibo%20&url=http://cabbibo.com/autograf"],
-        ["Share on Facebook", "facebook_1.png" , 'http://www.facebook.com/sharer.php?u=http://cabbibo.com/autograf'],
+        ["Share on Twitter" ,"twitter_1.png" , "http://twitter.com/share?text=Psychedelic%20Snake%20with%20audio%20from%20@AutografMusic%20coded%20by%20@vivekzz%20&url=http://heyitsvivek.github.io/DRAGONFISH"],
+        ["Share on Facebook", "facebook_1.png" , 'http://www.facebook.com/sharer.php?u=http://heyitsvivek.github.io/DRAGONFISH'],
         ["Autograf on Soundcloud" ,"soundcloud_1.png" , "https://soundcloud.com/autografmusic"],
-        ["Cabbibo" , "cabbibo_1.png" , "http://cabbibo.com"],
+        ["Cabbibo" , "cabbibo_1.png" , "http://repl.it/@vvc"],
         ["Information" , "info_1.png" , "" ],
       ]
       
