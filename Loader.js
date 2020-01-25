@@ -363,7 +363,7 @@ function Loader(  params ){
       var mobile = detectM();
 
       if( mobile )
-        this.addFailure( "Non Mobile" , "http://cabbibo.tumblr.com" );
+        this.addFailure( "Non Mobile" , "/" );
 
     }
 
